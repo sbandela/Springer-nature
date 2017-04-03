@@ -2,4 +2,4 @@
 Tech test for Springer Nature
 
 
-Hello, I'm Sireesha Bandela, a QA engineer. This is my first successful attempt towards the path of programming which is my aspiration.
+Hello, please see the tasks 1,2 and 3 worked on in an xls file and the automation test which is the sub task 4 under Task 1 is in the textfile.
